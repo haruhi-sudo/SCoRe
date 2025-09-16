@@ -7,7 +7,6 @@
   - [Mentored Problem Solving and SCoRe-SFT](#mentored-problem-solving-and-score-sft)
   - [SCoRe-RL](#score-rl)
 - [Inference](#inference)
-- [Acknowledgements](#acknowledgements)
 
 ## Overview
 SCoRe (**S**tudent-**C**entered **o**ne-step **Re**inforcement) is a new training paradigm for LLM agents that replaces full imitation with **ability‑matched correction**.
@@ -173,5 +172,3 @@ python inference_api.py
 ```
 If you want to test the web search tool, update inference/tools/search_tools.py with your own API configuration.
 
-## Acknowledgements
-We thank [verl](https://github.com/volcengine/verl) and [LLaMA‑Factory](https://github.com/hiyouga/LLaMA-Factory) for providing the excellent training framework. We also thank [ARPO](https://github.com/dongguanting/ARPO) for organizing the evaluation datasets and providing baseline results, and [agent-distillation](https://github.com/Nardien/agent-distillation) for inspiring the prompts used in this project.  
