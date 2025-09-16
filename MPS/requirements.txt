@@ -7,17 +7,6 @@ aiohttp==3.12.13
 aiolimiter==1.2.1
 aiosignal==1.4.0
 airportsdata==20250706
-alibabacloud-credentials==1.0.2
-alibabacloud-credentials-api==1.0.0
-alibabacloud-endpoint-util==0.0.4
-alibabacloud-gateway-spi==0.0.3
-alibabacloud-iqs20241111==1.3.1
-alibabacloud-openapi-util==0.2.2
-alibabacloud-tea==0.4.3
-alibabacloud-tea-openapi==0.4.1
-alibabacloud-tea-util==0.3.13
-aliyun-python-sdk-core==2.16.0
-aliyun-python-sdk-kms==2.16.5
 annotated-types==0.7.0
 antlr4-python3-runtime==4.9.3
 anyio==4.9.0
