@@ -122,7 +122,7 @@ Take the part of MPS-generated trajectories, use **short rollouts + key-step rew
 python -m venv score_rl
 source score_rl/bin/activate
 ```
-Follow the **[Verl sglang worker installation guide](https://verl.readthedocs.io/en/latest/workers/sglang_worker.html#installation)** to set up the RL environment.  
+We implemented an RL training process leveraging the VERL open-source library. Follow the **[Verl sglang worker installation guide](https://verl.readthedocs.io/en/latest/workers/sglang_worker.html#installation)** to set up the RL environment.  
 
 2. **Process the dataset**
 
