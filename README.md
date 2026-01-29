@@ -1,4 +1,4 @@
-<h1 align="center" style="margin-top: -50px;">FROM CORRECTION TO MASTERY: REINFORCED DISTILLATION OF LARGE LANGUAGE MODEL AGENTS</h1>
+<!-- <h1 align="center" style="margin-top: -50px;">FROM CORRECTION TO MASTERY: REINFORCED DISTILLATION OF LARGE LANGUAGE MODEL AGENTS</h1> -->
 
 ## 📑 Table of Contents
 - [Overview](#overview)
